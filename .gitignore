@@ -1,0 +1,6 @@
+.tox
+*.pyc
+*.egg-info
+*.sqlite*
+py2/
+py3/
