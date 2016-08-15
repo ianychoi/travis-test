@@ -4,3 +4,4 @@
 *.sqlite*
 py2/
 py3/
+.coverage
